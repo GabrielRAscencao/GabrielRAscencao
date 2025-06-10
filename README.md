@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou [Seu Nome ou Nickname] 👋</h1>
+<h1 align="center">Olá! Eu sou Gabriel Rocha 👋</h1>
 
 <p align="center">
-  🔭 Apaixonado por tecnologia, curioso por natureza e sempre em busca de aprender algo novo.  
+  🔭 Sou apaixonado por tecnologia e sempre em busca de aprender algo novo.  
 </p>
 
 ---
