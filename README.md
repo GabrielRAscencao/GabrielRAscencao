@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante/Profissional na área de Matemática Computacional
+- 🎓 Estudante na área de Matemática Computacional
 - 💻 Atualmente focado em desenvolver um jogo que nem o flappy bird
 - 🌱 Estudando e me aprofundando em C++
 - 🤝 Aberto a colaborações, projetos interessantes ou só trocar ideia
